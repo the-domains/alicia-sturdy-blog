@@ -1,6 +1,7 @@
 name: Alicia Sturdy Blog
 favicon: null
 layout_spectrum: 0.8
+title: The Journal of Alicia Sturdy
 cta:
   domain: null
   bucket: null
@@ -21,5 +22,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: follow
-    item: null
+    item: b5021ab0-e2d2-4c7e-9a26-1f15db52588d
     url: null
